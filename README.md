@@ -1,4 +1,4 @@
-🖥 About Me
+##🖥2 About Me
 
 Hello, I'm Ariel! I recently graduated with a Bachelor's Degree in Computer Science from UTRGV
 I'm a web developer from Mission, TX!
