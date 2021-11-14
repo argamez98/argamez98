@@ -1,6 +1,6 @@
 ## 🖥 About Me
 
-Hello, I'm Ariel! I recently graduated with a Bachelor's Degree in Computer Science from UTRGV. I'm also a web developer from Mission, TX!
+Hello, I'm Ariel! I recently graduated with a Bachelor's Degree in Computer Science from UTRGV. I'm also aspiring web, and mobile app developer from Mission, TX!
 
 <!---
 argamez98/argamez98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
